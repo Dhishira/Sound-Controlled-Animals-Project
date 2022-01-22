@@ -1,0 +1,44 @@
+body
+{
+  background-color: lightgrey;
+  text-align: center;
+}
+
+.header_div
+{
+    height: 100px;
+    background-color: gray;
+}
+
+.heading
+{
+    color: white;
+    font-family: 'Josefin Slab', serif;
+    font-size: 25px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    
+}
+
+.note
+{
+    color: white;
+    font-family: 'Merienda', cursive;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+
+.copy_right_footer
+{
+    background-color: white;
+    color: grey;
+    letter-spacing: 2px;
+    text-shadow: 5px 5px 5px grey;
+    bottom: 0px;
+    text-align-last: center;
+    position: fixed;
+    width:100% ; 
+    line-height: 3;
+    font-size: 15px;
+}
+
